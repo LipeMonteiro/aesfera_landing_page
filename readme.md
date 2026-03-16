@@ -10,7 +10,7 @@ https://LipeMonteiro.github.io/aesfera_landing_page
 
 ## 📷 Layout Preview
 
-![Project Preview](./assets/img/desktop.png)
+![Project Preview](./assets/img/Desktop.png)
 
 ## 📚 Project Type
 
